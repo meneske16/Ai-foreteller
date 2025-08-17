@@ -45,7 +45,7 @@
 
 ## **🎮 Demo**
 
-* **Live Game:** \[Insert GitHub Pages Link Here]
+* **Live Game:** \[]
 
 ---
 
@@ -53,10 +53,13 @@
 
 | Stage            | Screenshot              |
 | ---------------- | ----------------------- |
-| Game Start       | ![Start](<img width="1329" height="592" alt="image" src="https://github.com/user-attachments/assets/cbd2d792-5793-4e22-9429-61e4bf738f07" />) |
-| Mid-Game AI Move | ![Mid](<img width="1293" height="598" alt="image" src="https://github.com/user-attachments/assets/95653f74-3f10-45cd-943d-99ecb5721792" />
+| Game Start       | ![Start](<img width="1319" height="584" alt="image" src="https://github.com/user-attachments/assets/e4e584b4-0e93-4dda-95c0-0957361d6451" />
+) |
+| Mid-Game AI Move | ![Mid](<img width="1219" height="583" alt="image" src="https://github.com/user-attachments/assets/2529b816-db2c-4fce-b4ab-80224084780e" />
+)
 )   |
-| Winning Screen   | ![Win](<img width="1310" height="595" alt="image" src="https://github.com/user-attachments/assets/7c98b9d7-b1b9-46c9-b78e-3f1f4823a2d3" />)   |
+| Winning Screen   | ![Win](<img width="1276" height="577" alt="image" src="https://github.com/user-attachments/assets/662a47f2-67b4-4642-890e-22b572192e45" />
+)   |
 
 > *(Replace `link-to-image` with actual image URLs in your repo or hosted online.)*
 
