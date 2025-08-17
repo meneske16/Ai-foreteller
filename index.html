@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Fortune Teller 🔮</title>
+  <script src="script.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>🔮 AI Fortune Teller 🔮</h1>
+  <p class="subtitle">The AI looks into the crystal ball and sees the future...</p>
+
+  <!-- Crystal ball -->
+  <div id="crystalBall">
+    <p id="status">Your turn! Pick a number of gems (1–3).</p>
+    <div id="branches"></div>
+  </div>
+
+  <!-- Gems left -->
+  <h2>Remaining Gems: <span id="remaining"></span></h2>
+  <div id="gems"></div>
+
+  <!-- Player controls -->
+  <div class="controls">
+    <button onclick="playerMove(1)">Take 1</button>
+    <button onclick="playerMove(2)">Take 2</button>
+    <button onclick="playerMove(3)">Take 3</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
