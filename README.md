@@ -45,7 +45,7 @@
 
 ## **🎮 Demo**
 
-* **Live Game:** \[]
+* **Live Game:** \[https://ai-foreteller.netlify.app/]
 
 ---
 
@@ -68,7 +68,7 @@
 ## **🏆 Hackathon Submission**
 
 * **Repository:** [Ai-Foreteller on GitHub](https://github.com/meneske16/Ai-foreteller)
-* **Live Game:** \[Insert Link Here]
+* **Live Game:** \[https://ai-foreteller.netlify.app/]
 
 ---
 
