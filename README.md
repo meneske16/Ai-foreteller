@@ -61,7 +61,6 @@
 | Winning Screen   | ![Win](<img width="1276" height="577" alt="image" src="https://github.com/user-attachments/assets/662a47f2-67b4-4642-890e-22b572192e45" />
 )   |
 
-> *(Replace `link-to-image` with actual image URLs in your repo or hosted online.)*
 
 ---
 
