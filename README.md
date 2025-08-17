@@ -27,7 +27,7 @@
 
 1. Open the game in your browser.
 2. Take turns with the AI to remove **1 or more stones** from any pile.
-3. The player forced to take the **last stone loses**.
+3. The player that takes ** the last gem wins**.
 4. Outsmart the AI — if you can 😉.
 
 ---
