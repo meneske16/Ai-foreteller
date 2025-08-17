@@ -57,8 +57,8 @@ Winning Screen
 
 **🏆 Hackathon Submission**
 
-📂 Repository: [GitHub Repo Link Here]
-🌍 Live Game: [GitHub Pages Link Here]
+📂 Repository:https://github.com/meneske16/Ai-foreteller
+🌍 Live Game: 
 
 👩‍💻 Author
 
