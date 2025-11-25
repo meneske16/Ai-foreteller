@@ -67,7 +67,7 @@
 ## **🏆 Hackathon Submission**
 
 * **Repository:** [Ai-Foreteller on GitHub](https://github.com/meneske16/Ai-foreteller)
-* **Live Game:** \https://ai-foreteller.netlify.app/
+* **Live Game:** https://ai-foreteller.netlify.app/
 
 ---
 
